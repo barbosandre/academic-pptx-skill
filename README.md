@@ -1,4 +1,4 @@
-# Academic Presentations Skill for Claude
+# Academic Presentations Skill for Claude (plus basic PDF summary of general advice)
 
 A Claude Skill for creating high-quality academic presentations: conference talks, seminar slides, thesis defenses, and grant briefings.  Also includes a PDF which summarizes the advice (does not require use of Claude). 
 
